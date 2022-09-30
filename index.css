@@ -1,0 +1,43 @@
+.hash{
+text-decoration: line-through;
+font-weight: bolder;
+font-style: italic;
+
+
+
+}
+
+
+.mystyle{
+
+color: black;
+background-color: yellow;
+font-weight: bolder;
+
+}
+.under{
+
+text-decoration: underline;
+
+
+}
+
+.mystyle2{
+
+   letter-spacing: 6px;
+
+
+
+}
+.p{
+
+color: red;
+
+}
+.home{
+
+background-color: yellow;
+color: rebeccapurple;
+font-style: italic;
+
+}
